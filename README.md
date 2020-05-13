@@ -1,7 +1,7 @@
 # svelte-fullscreen-example
 
 ## What is this?
-""
+
 Example code for my [Let's Build a Svelte fullscreen component](https://codechips.me/lets-build-a-svelte-fullscreen-component/) article on how to build a simple fullscreen component in Svelte.
 
 ## How to run
